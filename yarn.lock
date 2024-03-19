@@ -7820,7 +7820,7 @@ __metadata:
     ts-protoc-gen: ^0.15.0
     tss-react: ^4.8.5
     typescript: ^5.0.4
-    xterm: ^5.1.0
+    xterm: ^5.3.0
     xterm-addon-fit: ^0.7.0
     yarn-upgrade-all: ^0.7.2
   languageName: unknown
@@ -19767,10 +19767,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"xterm@npm:^5.1.0":
-  version: 5.1.0
-  resolution: "xterm@npm:5.1.0"
-  checksum: cbacbc9dc1bbcf21dabecff46856b43f2d5854b42c1bec4ea03a5720000f2a88d79b0da45b6c38213d6607474a1fbe66d5ff25fa120b7e9e60eeed964dd840a1
+"xterm@npm:^5.3.0":
+  version: 5.3.0
+  resolution: "xterm@npm:5.3.0"
+  checksum: 1bdfdfe4cae4412128376180d85e476b43fb021cdd1114b18acad821c9ea44b5b600e0d88febf2b3572f38fad7741e5161ce0178a44369617cf937222cc6e011
   languageName: node
   linkType: hard
 
