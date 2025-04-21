@@ -19,7 +19,7 @@ ENV REACT_APP_SENTRY_DSN=$SENTRY_DSN
 ADD . /tmp/cirrus-ci-web/
 RUN yarn bootstrap && yarn build && rm -rf build/service-worker.js
 
-FROM node:20.2.0-alpine
+FROM node:20.19.0-alpine
 
 WORKDIR /svc/cirrus-ci-web
 EXPOSE 8080
