@@ -14,7 +14,7 @@
   "license": "MIT",
   "dependencies": {
     "@babel/preset-env": "^7.24.6",
-    "@babel/runtime": "^7.22.3",
+    "@babel/runtime": "^7.26.10",
     "@dagrejs/graphlib": "^2.1.13",
     "@emotion/react": "^11.11.0",
     "@emotion/styled": "^11.11.0",
@@ -23,7 +23,7 @@
     "@improbable-eng/grpc-web": "^0.15.0",
     "@mui/icons-material": "^5.11.16",
     "@mui/lab": "^5.0.0-alpha.134",
-    "@mui/material": "^5.13.5",
+    "@mui/material": "^7.0.0",
     "@mui/styles": "^5.13.2",
     "@mui/utils": "^5.13.1",
     "@sentry/react": "^7.53.1",
